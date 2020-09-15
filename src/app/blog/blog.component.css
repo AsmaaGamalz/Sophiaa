@@ -1,0 +1,73 @@
+
+ /*contact*/
+
+ .contact{
+    background-color: rgb(245 245 245 / 1);
+   padding:  60px 60px;
+   height: auto;
+}
+.widget p{
+    line-height: 24px;
+    width: 300px;
+    color: #333;
+    font-weight:140px;
+  margin-right: 10px;
+   
+ }
+ 
+.widgett{
+    padding-left: 40px;
+   
+ }
+ .menu a{
+    
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333;
+ }
+
+ .contact-ibs input{
+    background: #fff;
+    font-size: 16px;
+    line-height: 45px;
+     height: 50px;
+    border: 1px solid #e2e2e2;
+    border-radius: 4px;
+    padding: 0 65px 0 20px;
+    color: #777;
+    margin-bottom: 20px;
+ }
+ .contact-ibs button{
+ padding: 18px;
+ border: none;
+ background-color: #ef6c00;
+    border-radius: 10px;
+    
+ }
+ .contact-ibs button span{
+     color: #fff;
+    font-size: 25px;
+ }
+ .text a{
+    color:#000;
+    text-decoration: none;
+ }
+ .social{
+    list-style: none;
+ }
+ .social li {
+    display: inline-block; 
+    width: 30px;
+  
+ }
+ 
+ .social li i{
+    font-size: 26px;
+    color:#000;
+    border-radius: 30px;
+    
+ }
+ 
+ 
+ /*end contact*/

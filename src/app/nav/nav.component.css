@@ -1,0 +1,20 @@
+/* start section1*/
+nav{
+    background-color:  #ffa726;
+     color:#fff;
+ }
+ 
+ .btn{
+     border:2px solid transparent;
+      background: #ffa726;
+     border-radius: 5px;
+     margin-top: 10px;
+     color:#fff;
+     font-weight: bold;
+     padding: 13px 40px;
+ }
+ .nav-item a{
+     color:#fff;
+ }
+ 
+ /*end home*/

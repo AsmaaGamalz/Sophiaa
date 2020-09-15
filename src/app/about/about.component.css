@@ -1,0 +1,146 @@
+ /*about*/
+.about .container{
+    width: 100%;
+    margin: 50px auto;
+ }
+ 
+ .according{
+    width: 100%;
+    border:2px solid #ccc;
+    background:#fff; 
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px;
+    text-align: left;
+    cursor: pointer;
+    outline: 0;
+    color: #000;
+    margin-bottom: 10px;
+ }
+ 
+ .according:hover{
+    background-color:#eee ;
+ }
+ 
+ .according:after{
+ content: "\002B";
+ float: right;
+ font-weight: bold;
+ color:#777;
+ }
+ .active:after{
+    content: "\2212";
+ }
+ .desc{
+    padding: 0 15px;
+    max-height: 0;
+    overflow: hidden;
+    transition: 0.3s;
+ }
+ /*end about*/
+ /*service*/
+ .service{
+     background-color: #eee;
+     height: auto;
+    padding: 30px;
+ }
+ .headparg{
+    text-align: center;
+    font-size: 17px;
+    margin: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+ }
+ .headparg p{
+    font-style: italic;
+    font-size: 22px;
+ }
+.service-tittle{
+    background-color: #fff;
+    height: 180px;
+    padding: 25px;
+   
+}
+ /*end service*/
+ /*expert*/
+.export-title:hover{
+
+background-color: rgba(0,0,0,0.2);
+
+}
+
+ /*end expert*/
+
+ 
+ /*contact*/
+
+.contact{
+   background-color: rgb(245 245 245 / 1);
+  padding:  60px 60px;
+  height: auto;
+}
+.widget p{
+   line-height: 24px;
+   width: 300px;
+   color: #333;
+   font-weight:140px;
+ margin-right: 10px;
+  
+}
+
+.widgett{
+   padding-left: 40px;
+  
+}
+.menu a{
+   
+   text-decoration: none;
+   font-size: 18px;
+   line-height: 22px;
+   color: #333;
+}
+
+.contact-ibs input{
+   background: #fff;
+   font-size: 16px;
+   line-height: 45px;
+    height: 50px;
+   border: 1px solid #e2e2e2;
+   border-radius: 4px;
+   padding: 0 65px 0 20px;
+   color: #777;
+   margin-bottom: 20px;
+}
+.contact-ibs button{
+padding: 18px;
+border: none;
+background-color: #ef6c00;
+   border-radius: 10px;
+   
+}
+.contact-ibs button span{
+    color: #fff;
+   font-size: 25px;
+}
+.text a{
+   color:#000;
+   text-decoration: none;
+}
+.social{
+   list-style: none;
+}
+.social li {
+   display: inline-block; 
+   width: 30px;
+ 
+}
+
+.social li i{
+   font-size: 26px;
+   color:#000;
+   border-radius: 30px;
+   
+}
+
+
+/*end contact*/
